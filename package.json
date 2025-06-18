@@ -9,6 +9,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.9.4"
+    "@cspell/dict-en-common-misspellings": "^2.1.1",
+    "astro": "^5.9.4",
+    "peertube-plugin-creative-commons": "^1.2.0"
   }
 }
