@@ -11,6 +11,7 @@
   "dependencies": {
     "@cspell/dict-en-common-misspellings": "^2.1.1",
     "astro": "^5.9.4",
-    "peertube-plugin-creative-commons": "^1.2.0"
+    "peertube-plugin-creative-commons": "^1.2.0",
+    "youtube-chat-api": "^1.0.2"
   }
 }
