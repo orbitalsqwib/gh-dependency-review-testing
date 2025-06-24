@@ -1,0 +1,4 @@
+blacklist:
+  - "CC-BY-SA-4.0"
+  - "AGPL-3.0"
+init: true
